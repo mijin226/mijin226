@@ -3,7 +3,7 @@
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 개발자간 의사소통을 중요히 여기는 개발자 </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> <li>📌 클라이언트 의견을 경청 및 소통하는 개발자</li><li>📌 개발자간 의사소통을 중요히 여기는 개발자</li><li>📌 끊임없이 변화하는 기술을 배우는 개발자</li><li>📌 끈기있게 도전하는 개발자</li></div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> <br>📌 클라이언트 의견을 경청 및 소통하는 개발자 <br> 📌 개발자간 의사소통을 중요히 여기는 개발자 <br> 📌 끊임없이 변화하는 기술을 배우는 개발자 <br> 📌 끈기있게 도전하는 개발자<br></div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
